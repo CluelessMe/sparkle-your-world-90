@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a05b3b41-146d-49bb-a99e-b5482f32e00a) and start prompting.
+Simply visit the [Lovable Project](https://preview--sparkle-your-world-65.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
